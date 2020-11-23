@@ -1,0 +1,8 @@
+name: flask-dev
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - black
+  - flake8
+  - flask
