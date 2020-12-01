@@ -1,9 +1,12 @@
 name: flask-dev
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - python=3.8
   - black
   - flake8
   - flask
   - flask-wtf
+  - flask-sqlalchemy
+  - flask-migrate
