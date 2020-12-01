@@ -6,3 +6,4 @@ dependencies:
   - black
   - flake8
   - flask
+  - flask-wtf
